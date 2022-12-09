@@ -60,8 +60,8 @@ class LoginWindow:
         #append it to the users list
         users.extend([(input_user,input_pass)])
         #print that the user is registerd successfully
-        print('user {} with pass {} signed up correctly'.format(input_user,input_pass))
-        self.req.config(text="signed up correctly")
+        print('user {} with pass {} You have been signed up'.format(input_user,input_pass))
+        self.req.config(text="You been signed up")
     
     def login(self):
        input_user = self.txt01.get()
