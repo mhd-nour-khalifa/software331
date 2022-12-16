@@ -1,4 +1,4 @@
-# software331
+# CMPE331 Worksheet
 
 Using python and Trello to do the project 
 
